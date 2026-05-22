@@ -1,0 +1,8 @@
+
+path: C:/Ahmad/mnist-synthetic/mnist_yolo_training          # dataset root dir
+train: C:/Ahmad/mnist-synthetic/mnist_yolo_training\train             
+val: C:/Ahmad/mnist-synthetic/mnist_yolo_training\val
+test: C:/Ahmad/mnist-synthetic/mnist_yolo_training\test
+
+nc: 10
+names: ['0','1','2','3','4','5','6','7','8','9']

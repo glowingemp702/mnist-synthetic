@@ -1,0 +1,285 @@
+{
+    "info": {
+        "year": "2026",
+        "version": "dataset",
+        "description": "Exported from roboflow.com",
+        "contributor": "",
+        "url": "https://app.roboflow.com/datasets/glowingsofts-workspace/dataset",
+        "date_created": "2026-05-22T09:45:19+00:00"
+    },
+    "licenses": [
+        {
+            "id": 1,
+            "url": "",
+            "name": "Unknown"
+        }
+    ],
+    "images": [
+        {
+            "id": 4,
+            "license": 1,
+            "file_name": "synthetic_canvas_113.png",
+            "height": 256,
+            "width": 256,
+            "date_captured": "2026-05-22T09:45:19+00:00",
+            "extra": {
+                "name": "synthetic_canvas_113.png"
+            }
+        }
+    ],
+    "annotations": [
+        {
+            "id": 79,
+            "image_id": 4,
+            "category_id": 7,
+            "bbox": [
+                108,
+                40,
+                34,
+                35
+            ],
+            "iscrowd": 0,
+            "area": 1190,
+            "segmentation": []
+        },
+        {
+            "id": 80,
+            "image_id": 4,
+            "category_id": 5,
+            "bbox": [
+                157,
+                31,
+                32,
+                39
+            ],
+            "iscrowd": 0,
+            "area": 1248,
+            "segmentation": []
+        },
+        {
+            "id": 81,
+            "image_id": 4,
+            "category_id": 9,
+            "bbox": [
+                40,
+                23,
+                34,
+                39
+            ],
+            "iscrowd": 0,
+            "area": 1326,
+            "segmentation": []
+        },
+        {
+            "id": 82,
+            "image_id": 4,
+            "category_id": 10,
+            "bbox": [
+                79,
+                5,
+                40,
+                26
+            ],
+            "iscrowd": 0,
+            "area": 1040,
+            "segmentation": []
+        },
+        {
+            "id": 83,
+            "image_id": 4,
+            "category_id": 2,
+            "bbox": [
+                43,
+                134,
+                26,
+                29
+            ],
+            "iscrowd": 0,
+            "area": 754,
+            "segmentation": []
+        },
+        {
+            "id": 84,
+            "image_id": 4,
+            "category_id": 8,
+            "bbox": [
+                12,
+                143,
+                26,
+                28
+            ],
+            "iscrowd": 0,
+            "area": 728,
+            "segmentation": []
+        },
+        {
+            "id": 85,
+            "image_id": 4,
+            "category_id": 4,
+            "bbox": [
+                9,
+                109,
+                24,
+                33
+            ],
+            "iscrowd": 0,
+            "area": 792,
+            "segmentation": []
+        },
+        {
+            "id": 86,
+            "image_id": 4,
+            "category_id": 5,
+            "bbox": [
+                139,
+                182,
+                27,
+                24
+            ],
+            "iscrowd": 0,
+            "area": 648,
+            "segmentation": []
+        },
+        {
+            "id": 87,
+            "image_id": 4,
+            "category_id": 8,
+            "bbox": [
+                187,
+                229,
+                40,
+                25
+            ],
+            "iscrowd": 0,
+            "area": 1000,
+            "segmentation": []
+        },
+        {
+            "id": 88,
+            "image_id": 4,
+            "category_id": 5,
+            "bbox": [
+                179,
+                117,
+                45,
+                30
+            ],
+            "iscrowd": 0,
+            "area": 1350,
+            "segmentation": []
+        },
+        {
+            "id": 89,
+            "image_id": 4,
+            "category_id": 2,
+            "bbox": [
+                72,
+                80,
+                13,
+                23
+            ],
+            "iscrowd": 0,
+            "area": 299,
+            "segmentation": []
+        },
+        {
+            "id": 90,
+            "image_id": 4,
+            "category_id": 3,
+            "bbox": [
+                70,
+                103,
+                37,
+                16
+            ],
+            "iscrowd": 0,
+            "area": 592,
+            "segmentation": []
+        },
+        {
+            "id": 91,
+            "image_id": 4,
+            "category_id": 3,
+            "bbox": [
+                42,
+                64,
+                24,
+                26
+            ],
+            "iscrowd": 0,
+            "area": 624,
+            "segmentation": []
+        },
+        {
+            "id": 92,
+            "image_id": 4,
+            "category_id": 8,
+            "bbox": [
+                203,
+                89,
+                15,
+                24
+            ],
+            "iscrowd": 0,
+            "area": 360,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 0,
+            "name": "Segmentation",
+            "supercategory": "none"
+        },
+        {
+            "id": 1,
+            "name": "0",
+            "supercategory": "Segmentation"
+        },
+        {
+            "id": 2,
+            "name": "1",
+            "supercategory": "Segmentation"
+        },
+        {
+            "id": 3,
+            "name": "2",
+            "supercategory": "Segmentation"
+        },
+        {
+            "id": 4,
+            "name": "3",
+            "supercategory": "Segmentation"
+        },
+        {
+            "id": 5,
+            "name": "4",
+            "supercategory": "Segmentation"
+        },
+        {
+            "id": 6,
+            "name": "5",
+            "supercategory": "Segmentation"
+        },
+        {
+            "id": 7,
+            "name": "6",
+            "supercategory": "Segmentation"
+        },
+        {
+            "id": 8,
+            "name": "7",
+            "supercategory": "Segmentation"
+        },
+        {
+            "id": 9,
+            "name": "8",
+            "supercategory": "Segmentation"
+        },
+        {
+            "id": 10,
+            "name": "9",
+            "supercategory": "Segmentation"
+        }
+    ]
+}
