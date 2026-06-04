@@ -1,0 +1,52 @@
+# Virtual Environment
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Dataset
+data/
+
+# Models
+model/
+
+# Training Outputs
+runs/
+
+# Logs
+*.log
+
+# Environment Variables
+.env
+.env.*
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Python build files
+build/
+dist/
+*.egg-info/
+
+# Temporary files
+*.tmp
+*.temp
+
+# Ultralytics cache
+.cache/
+
+*.pt
